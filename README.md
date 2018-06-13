@@ -2,7 +2,7 @@
 
 [One Dark](https://github.com/atom/one-dark-syntax) inspired Java editor theme for for IntelliJ IDEA
 
-![](screenshots/1.jpg)
+![](screenshots/1.png)
 
 ## Installation
 
