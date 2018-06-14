@@ -1,6 +1,6 @@
 # One Dark Inspired IntelliJ IDEA theme
 
-[One Dark](https://github.com/atom/one-dark-syntax) inspired Darcula based Java editor theme for for IntelliJ IDEA
+[One Dark](https://github.com/atom/one-dark-syntax) inspired Darcula based Java editor theme for IntelliJ IDEA
 
 ![](screenshots/1.png)
 
