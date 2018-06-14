@@ -4,7 +4,7 @@
 
 
 Dracula One Dark
-![](screenshots/Darcula One Dark.png)
+![](screenshots/Darcula-One-Dark.png)
 
 Comparison with Dracula (IntelliJ IDEA default dark theme)
 ![](screenshots/Comparison.png)
